@@ -6,7 +6,6 @@ import android.widget.ProgressBar;
 
 import com.moremoregreen.androidcointracker.R;
 
-import java.nio.FloatBuffer;
 
 public class LoadingViewHolder extends RecyclerView.ViewHolder{
     public ProgressBar progressBar;
